@@ -1,5 +1,5 @@
 # ClassMatch
-**[Open the live ClassMatch website →](https://classmatch.vercel.app/)**
+**[Open the live ClassMatch website →](https://classmatch.streamlit.app/)**
 
 A production-ready Streamlit application for free online tutoring worldwide. Families can match by grade and subject, request collision-safe dated slots, receive email updates, and track status. Owners assign verified tutor accounts; approved tutors of any age manage their own timezone, availability, and schedule.
 
